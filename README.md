@@ -1,5 +1,21 @@
 # 💫 About Me:
-🔭 I’m a B.Tech Student learning new technologies and building innovative AI/ML projects.<br>
+I am an aspiring Software Engineer with a strong foundation in Data Structures & Algorithms (Java) and hands-on experience in Machine Learning and Computer Vision using Python 🤖📊. I focus on building practical, end-to-end solutions that translate theory into real-world impact.
+
+I enjoy designing and developing scalable ML pipelines, computer vision systems, and data-driven applications 🚀. My work includes training deep learning models, automating data annotation workflows, and deploying interactive ML applications with clean, reproducible code.
+
+My projects span domains such as satellite image analysis 🛰️, agriculture intelligence 🌱, and real-time monitoring systems 📡, with an emphasis on performance, accuracy, and deployment readiness.
+
+Areas of Interest:
+
+Machine Learning & Deep Learning 🧠
+
+Computer Vision & Real-time Inference 👁️
+
+Backend-ready ML Pipelines ⚙️
+
+Problem Solving with DSA 💡
+
+I am actively building and refining projects while contributing to impactful software and AI-driven systems 🌍.
 
 
 ## 🌐 Socials:
